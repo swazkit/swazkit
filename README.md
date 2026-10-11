@@ -1,98 +1,200 @@
-<h1 align="center">👋 Hi, I'm Swastik Ray Choudhuri!</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer+%26+Designer;Passionate+Web+Innovator;Building+Interactive+Experiences" alt="Typing SVG" />
+  <img src="P.-R.-India-Health-Services-main/public/favicon.svg" alt="P. R. India Health Services" width="80" />
+</p>
+
+<h1 align="center">P. R. India Health Services</h1>
+
+<p align="center">
+  <strong>Professional Critical Care & Home Healthcare Services</strong><br/>
+  Bringing hospital-grade care to the comfort of your home across India.
 </p>
 
 <p align="center">
-  🌟 Turning ideas into elegant digital experiences 🌟
+  <a href="#features">Features</a> •
+  <a href="#tech-stack">Tech Stack</a> •
+  <a href="#getting-started">Getting Started</a> •
+  <a href="#project-structure">Project Structure</a> •
+  <a href="#pages">Pages</a> •
+  <a href="#license">License</a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🏥 About
 
-🎨 **Creative Coder & Designer** | 🛠️ **Frontend Developer** | 🌍 **Lifelong Learner**
+**P. R. India Health Services** is a modern, full-featured web application for a home healthcare company operating in India. The platform connects patients and families with coordinated home healthcare support — including **Home ICU setup**, **Nursing Services**, **Doctor Home Visits**, **Physiotherapy**, **Caregiver/Attendant Services**, and **Medical Equipment** rental.
 
-Welcome to my GitHub profile! I'm a **self-taught developer** with a passion for crafting stunning and intuitive web applications. My journey began at 14 when I dreamt of building video games, leading me into the exciting world of **web development** and **design**.  
+The website is designed with a premium, responsive UI and serves as both a marketing site and a service request portal.
 
-I specialize in:  
-- **Frontend Development:** React, JavaScript, CSS  
-- **Design:** Figma, Adobe XD, Web Aesthetics  
-- **Creating Full-stack Solutions** with a keen eye for user experience.  
+---
+
+## ✨ Features
+
+- 🏠 **Home ICU Setup** — Hospital-grade ICU care delivered at home with full monitoring equipment
+- 👩‍⚕️ **Nursing Services** — Qualified nurses for post-operative, critical, and general care
+- 🩺 **Doctor Home Visits** — Specialist and general physician consultations at your doorstep
+- 🤝 **Caregiver & Attendant Services** — Trained attendants for daily patient support
+- 💪 **Physiotherapy** — In-home physiotherapy and rehabilitation programs
+- 🔧 **Medical Equipment** — Rental of hospital beds, oxygen concentrators, monitors, and more
+- 📋 **Service Request Form** — Multi-step form with validation for requesting any service
+- 👥 **Join Our Team** — Application portal for healthcare professionals
+- 📱 **Fully Responsive** — Optimized for mobile, tablet, and desktop
+- 🎨 **Animated Dropdown Navigation** — Smooth, responsive services dropdown menu
+- 🌙 **Dark Mode UI** — Premium dark theme with glassmorphism effects
+- ⚡ **SEO Optimized** — Meta tags, Open Graph data, and semantic HTML on every page
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</div>
+| Category | Technology |
+|---|---|
+| **Framework** | [React 19](https://react.dev/) + [Vite 8](https://vite.dev/) |
+| **Routing** | [TanStack Router](https://tanstack.com/router) (file-based) |
+| **Styling** | [Tailwind CSS v4](https://tailwindcss.com/) |
+| **UI Components** | [Radix UI](https://www.radix-ui.com/) + [shadcn/ui](https://ui.shadcn.com/) |
+| **Icons** | [Lucide React](https://lucide.dev/) |
+| **Forms** | [React Hook Form](https://react-hook-form.com/) + [Zod](https://zod.dev/) |
+| **Backend** | [Supabase](https://supabase.com/) |
+| **Testing** | [Vitest](https://vitest.dev/) + [Testing Library](https://testing-library.com/) |
+| **Language** | TypeScript 5.8 |
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Getting Started
 
-### 🌐 [**Portfolio Website**](https://portfolio-me-one-ruby.vercel.app/)
-> My digital portfolio showcasing my web development and design expertise. Explore my work and get in touch!  
+### Prerequisites
 
-### 🎲 [**Tenzies Game**](https://github.com/swazkit/Tenzies-game)
-> An addictive dice-rolling game built with React and modern UI principles.  
+- **Node.js** ≥ 18
+- **npm** ≥ 9 (or **bun**)
 
-### 🚀 [**Canvas Space Game**](https://github.com/swazkit/Canvas_game)
-> Navigate the stars and challenge yourself in this HTML5 canvas-based space adventure!  
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/Aishikaroy/P-R-India.git
+cd P-R-India
+
+# Install dependencies
+cd P.-R.-India-Health-Services-main
+npm install
+
+# Set up environment variables
+cp .env.example .env
+# Edit .env with your Supabase credentials
+```
+
+### Development
+
+```bash
+# Start the dev server (from root)
+npm run dev
+
+# Or from the inner project directory
+cd P.-R.-India-Health-Services-main
+npm run dev
+```
+
+The app will be available at **http://localhost:8080**
+
+### Build & Preview
+
+```bash
+npm run build      # Production build
+npm run preview    # Preview the production build
+```
+
+### Testing
+
+```bash
+npm run test           # Run tests once
+npm run test:watch     # Run tests in watch mode
+```
 
 ---
 
-## 📈 GitHub Stats
+## 📁 Project Structure
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swazkit&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=swazkit&theme=radical" alt="GitHub Streak" />
-</div>
+```
+P-R-India/
+├── P.-R.-India-Health-Services-main/
+│   ├── public/                    # Static assets (favicon, etc.)
+│   ├── src/
+│   │   ├── assets/                # Images (hero, team, ICU, about)
+│   │   ├── components/
+│   │   │   ├── site/              # Site-wide components (Header, Footer, CTA)
+│   │   │   └── ui/                # Reusable UI primitives (shadcn/ui)
+│   │   ├── hooks/                 # Custom React hooks
+│   │   ├── lib/                   # Utility functions
+│   │   ├── routes/                # File-based routes (TanStack Router)
+│   │   │   ├── index.tsx          # Homepage
+│   │   │   ├── services.tsx       # Services overview
+│   │   │   ├── home-icu.tsx       # Home ICU service page
+│   │   │   ├── nursing-services.tsx
+│   │   │   ├── doctor-visits.tsx
+│   │   │   ├── caregiver-services.tsx
+│   │   │   ├── physiotherapy.tsx
+│   │   │   ├── medical-equipment.tsx
+│   │   │   ├── about.tsx
+│   │   │   ├── contact.tsx
+│   │   │   ├── request-service.tsx
+│   │   │   ├── join-team.tsx
+│   │   │   └── ...
+│   │   ├── styles.css             # Tailwind config & design tokens
+│   │   └── test/                  # Test suites
+│   ├── supabase/                  # Supabase migrations & config
+│   ├── package.json
+│   ├── vite.config.ts
+│   └── tsconfig.json
+├── package.json                   # Root scripts (delegates to inner project)
+├── .gitignore
+└── README.md
+```
 
 ---
 
-## 🌐 Let's Connect!
+## 📄 Pages
 
-<div align="center">
-  <a href="mailto:swastikraychoudhuri@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/swastik-ray-choudhuri">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/swazkit">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://dribbble.com/Swaz002">
-    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" />
-  </a>
-  <a href="https://www.behance.net/swaz">
-    <img src="https://img.shields.io/badge/Behance-0057FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
-  </a>
-</div>
+| Route | Description |
+|---|---|
+| `/` | Homepage with hero section, services overview, testimonials |
+| `/services` | All services at a glance |
+| `/home-icu` | Home ICU setup details |
+| `/nursing-services` | Nursing care services |
+| `/doctor-visits` | Doctor home visit consultations |
+| `/caregiver-services` | Attendant & caregiver services |
+| `/physiotherapy` | In-home physiotherapy programs |
+| `/medical-equipment` | Medical equipment rental catalog |
+| `/about` | Company mission, vision & values |
+| `/contact` | Contact information & form |
+| `/request-service` | Multi-step service request form |
+| `/join-team` | Healthcare professional application portal |
+| `/healthcare-team` | Meet the team |
+| `/privacy-policy` | Privacy policy |
+| `/terms` | Terms of service |
+| `/medical-disclaimer` | Medical disclaimer |
 
 ---
 
-## 💬 Fun Fact
+## 🎨 Design Highlights
 
-_"Bugs don't even exist; they're just misunderstood features."_  
+- **Dark premium theme** with carefully curated color palette using HSL tokens
+- **Glassmorphism effects** on cards and navigation elements
+- **Micro-animations** — smooth hover transitions, dropdown reveals, and scroll effects
+- **Responsive navigation** — animated dropdown on desktop, accordion on mobile
+- **Indian-context imagery** — all photographs feature Indian healthcare professionals and patients in authentic home settings
 
----  
+---
 
-## 🖤 Thank You!  
-Thank you for visiting my profile! Feel free to **explore, star 🌟 my repositories**, or reach out for collaborations.
+## 📬 Contact
+
+For inquiries about P. R. India Health Services:
+
+- 📞 **Phone:** +91 available on the website
+- 🌐 **Website:** [Visit Live Site](https://p-r-india.vercel.app)
+
+---
+
+<p align="center">
+  Made with ❤️ in India
+</p>
